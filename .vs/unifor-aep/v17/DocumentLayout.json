@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronal_ci6dd7o\\Desktop\\Ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CF5AC7-B4BD-4991-8229-6D322C46BDD3}|unifor-aep\\unifor-aep.csproj|c:\\users\\ronal_ci6dd7o\\desktop\\ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\unifor-aep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52CF5AC7-B4BD-4991-8229-6D322C46BDD3}|unifor-aep\\unifor-aep.csproj|solutionrelative:unifor-aep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CF5AC7-B4BD-4991-8229-6D322C46BDD3}|unifor-aep\\unifor-aep.csproj|c:\\users\\ronal_ci6dd7o\\desktop\\ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\unifor-aep\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CF5AC7-B4BD-4991-8229-6D322C46BDD3}|unifor-aep\\unifor-aep.csproj|solutionrelative:unifor-aep\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ronal_ci6dd7o\\Desktop\\Ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\unifor-aep\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "unifor-aep\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ronal_ci6dd7o\\Desktop\\Ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\unifor-aep\\Controllers\\UserController.cs",
+              "RelativeToolTip": "unifor-aep\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:15:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ronal_ci6dd7o\\Desktop\\Ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\unifor-aep\\appsettings.json",
+              "RelativeDocumentMoniker": "unifor-aep\\appsettings.json",
+              "ToolTip": "C:\\Users\\ronal_ci6dd7o\\Desktop\\Ronald\\trabalho\\projeto-guilherme\\back\\unifor-aep\\unifor-aep\\appsettings.json",
+              "RelativeToolTip": "unifor-aep\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T17:12:18.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
